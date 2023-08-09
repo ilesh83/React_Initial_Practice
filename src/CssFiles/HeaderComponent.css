@@ -1,0 +1,12 @@
+#signOut{
+    cursor: pointer;
+    color: #914572;
+    display: flex;
+    justify-content: flex-end;
+}
+#mainHeading{
+    cursor: pointer;
+    position:sticky;
+    font-size: 45px;
+    font-family: 'Brush Script MT';
+}
